@@ -9,7 +9,7 @@ class Solution {
             }
             else if(nums[low] <= nums[mid]){
                 if(nums[low] <= target && target <= nums[mid]){
-                    high = mid;
+                    high = mid-1;
                 }
                 else{
                     low = mid+1;
@@ -20,7 +20,7 @@ class Solution {
                     low = mid+1;
                 }
                 else{
-                    high = mid;
+                    high = mid-1;
                 }
             }
         }
