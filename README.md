@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishavraj03/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rishavraj03/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/rishavraj03/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/rishavraj03/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/rishavraj03/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rishavraj03/leetcode-solutions/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -17,6 +18,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishavraj03/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rishavraj03/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/rishavraj03/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rishavraj03/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/rishavraj03/leetcode-solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -53,4 +56,12 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishavraj03/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/rishavraj03/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rishavraj03/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rishavraj03/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
